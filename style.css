@@ -1,0 +1,131 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    padding-top: 50px;
+}
+#mainNav{
+    /*float: right;*/
+    /*height: 500px;*/
+    background-color: yellow;
+}
+#name{
+    height: 100px;
+    text-align: center;
+}
+.nav{
+    /*position: fixed;*/
+    background: rgb(40, 62, 82);
+    height: 100px;
+    color: white;
+}
+
+#portfolio{
+    text-align: center;
+    margin: auto;
+    width: 50%;
+}
+
+.img{
+    height: 200px;
+    width: 200px;
+}
+
+.icon{
+    height: 50px;
+    width: 50px;
+}
+.container{
+    display: flex;
+}
+
+.div1{
+    left: 0;
+    right: 0;
+    background: rgb(0, 192, 154);
+    height: 500px;
+    width: 100%;
+
+}
+
+.div2{
+    width: 100%;
+    margin: 0;
+    height: 500px;
+    background: white;
+    padding: 10px;
+}
+
+.div3{
+    width: 100%;
+    margin: 0;
+    height: 500px;
+    background: rgb(0, 192, 154);
+    padding: 10px;
+}
+
+.div4{
+    width: 100%;
+    margin: 0;
+    height: 500px;
+    background: rgb(0, 192, 154);
+    padding: 10px;
+}
+
+.div5{
+    width: 25%;
+    height: 200px;
+    background: green;
+    /*float: left;*/
+    padding: 10px;
+}
+
+
+.project1{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    margin-bottom: 20px;
+    /*float: left;*/
+
+}
+.project2{
+    margin: auto;
+    display: flex;
+    position: relative;
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    margin-bottom: 20px;
+    float: right;
+}
+.project3{
+    margin: auto;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    margin-left: 50px;
+    margin-bottom: 20px;
+
+}
+.project4{
+    margin: auto;
+    display: flex;
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+
+.project5{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border: 1px black solid;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
